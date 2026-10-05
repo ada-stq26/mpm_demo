@@ -6,5 +6,7 @@ print(np.sqrt(np.pi))
 def rpi(x):
 	return x*pi
 
+def twopi():
+	return 2*pi
 
 
